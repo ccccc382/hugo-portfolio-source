@@ -139,9 +139,9 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Hello"
-    subtitle = "I am Colin, a enthoustic jack of all trades that was born in the netherlands.
+    subtitle = """I am Colin, a enthoustic jack of all trades that was born in the netherlands.
     Intrested in home automation, audio, drones. 
-    Currently studying Sensor Technology at the Hanze Institute of Engineering"
+    Currently studying Sensor Technology at the Hanze Institute of Engineering"""
     buttonText = "Contact me"
     url = "blogs"
 
