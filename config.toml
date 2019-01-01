@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://colingerritsen.com/"
+baseURL = "https://colingerritsen.com/"
 languageCode = "en-us"
 title = "Colin Gerritsen"
 theme = "forty"
