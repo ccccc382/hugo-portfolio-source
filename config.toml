@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "nav"
-    subtitle = "by test"
+    title = "Colin"
+    subtitle = "Gerritsen"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -138,13 +138,11 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
+    title = "Hello"
+    subtitle = "I am Colin, a enthoustic jack of all trades that was born in the netherlands.
+    Intrested in home automation, audio, drones. 
+    Currently studying Sensor Technology at the Hanze Institute of Engineering"
+    buttonText = "Contact me"
     url = "blogs"
 
 

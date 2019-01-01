@@ -1,7 +1,7 @@
 ---
-title: "Ipsum"
+title: "smart greenhouse"
 description: ""
-slug: "ipsum"
+slug: "smart greenhouse"
 image: pic10.jpg
 keywords: ""
 categories: 
