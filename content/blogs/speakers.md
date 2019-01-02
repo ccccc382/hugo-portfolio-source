@@ -1,7 +1,7 @@
 ---
 title: "Odssey bookshelf speakers"
 description: ""
-slug: "Odssey bookshelf speakers"
+slug: "speakers"
 image: 
 keywords: ""
 categories: 

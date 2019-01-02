@@ -1,7 +1,7 @@
 ---
 title: "Flycycle"
 description: ""
-slug: "Flycycle"
+slug: "flycycle"
 image: 
 keywords: ""
 categories: 

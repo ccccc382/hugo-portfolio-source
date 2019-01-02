@@ -1,8 +1,8 @@
 ---
 title: "smart greenhouse"
 description: ""
-slug: "smartgreenhouse"
-image: greenhouse01.jpg
+slug: "greenhouse"
+image: 
 keywords: ""
 categories: 
     - ""

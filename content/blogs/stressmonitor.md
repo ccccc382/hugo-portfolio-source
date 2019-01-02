@@ -1,7 +1,7 @@
 ---
 title: "Stress monitor"
 description: ""
-slug: "Stress monitor"
+slug: "monitor"
 image: 
 keywords: ""
 categories: 
