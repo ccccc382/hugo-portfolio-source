@@ -2,7 +2,7 @@
 title: "Arcade"
 description: ""
 slug: "Arcade"
-image: 
+#image: 
 keywords: ""
 categories: 
     - ""
