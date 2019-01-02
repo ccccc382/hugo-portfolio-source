@@ -2,7 +2,7 @@
 baseURL = "https://colingerritsen.com/"
 languageCode = "en-us"
 title = "Colin Gerritsen"
-theme = "forty"
+theme = "hugo-portfolio-theme"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
