@@ -1,8 +1,8 @@
 ---
 title: "smart greenhouse"
-description: ""
+description: "a fully automate greenhouse with a scalable design"
 slug: "greenhouse"
-image: 
+image: greenhouse.jpg
 keywords: ""
 categories: 
     - ""

@@ -1,8 +1,8 @@
 ---
 title: "Flycycle"
-description: ""
+description: "so this is what it feels like to be ET"
 slug: "flycycle"
-image: 
+image: flycycle.jpg
 keywords: ""
 categories: 
     - ""

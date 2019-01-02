@@ -1,8 +1,8 @@
 ---
 title: "Stress monitor"
-description: ""
+description: "a device made to measure stress in a medical enviorment"
 slug: "monitor"
-image: 
+image: stressmonitor.jpg
 keywords: ""
 categories: 
     - ""

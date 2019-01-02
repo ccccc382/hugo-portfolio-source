@@ -1,8 +1,8 @@
 ---
 title: "Arcade"
-description: ""
+description: "the project that started my journey"
 slug: "Arcade"
-#image: 
+image: arcade.jpg 
 keywords: ""
 categories: 
     - ""

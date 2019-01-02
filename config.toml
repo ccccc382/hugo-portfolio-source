@@ -217,3 +217,8 @@ disqusShortname = ""
     #  text = "Design: "
     #  url= "https://www.html5up.net"
     #  alt = "HTML5 UP"
+
+
+#SEO
+enableRobotsTXT = true
+canonifyURLs = true

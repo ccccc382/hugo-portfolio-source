@@ -1,8 +1,8 @@
 ---
 title: "Odssey bookshelf speakers"
-description: ""
+description: "a "
 slug: "speakers"
-image: 
+image: speakers.jpg
 keywords: ""
 categories: 
     - ""
@@ -12,3 +12,4 @@ draft: false
 ---
 
 a personal project where i designed, calculated, modeled and build a pair of custom passive speakers
+i named them odssy since the entire project was a journey for me.....

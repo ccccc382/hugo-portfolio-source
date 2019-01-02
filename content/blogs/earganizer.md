@@ -1,8 +1,8 @@
 ---
 title: "earganizer"
-description: ""
+description: "self winding earbud case with a artistic twist "
 slug: "earganizer"
-image: 
+image: earganizer.png
 keywords: ""
 categories: 
     - ""
