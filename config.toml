@@ -94,38 +94,38 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Smart greenhouse"
       subtitle = "a modular solution"
-      image = "pic01.jpg"
+      image = "greenhouse.jpg"
       url = "blogs/greenhouse"
 
     [[params.tiles.showcase]]
-      title = "odssey"
+      title = "Odssey"
       subtitle = "bookshelf speakers"
-      image = "pic02.jpg"
+      image = "speakers.jpg"
       url = "blogs/speakers"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+      title = "Stress monitor"
+      subtitle = "a wireless health monitor"
+      image = "stressmonitor.jpg"
+      url = "blogs/stressmonitor"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      title = "flycyle"
+      subtitle = "Feel like ET"
+      image = "flycyle.jpg"
+      url = "blogs/flycyle"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+      title = "eaganizer"
+      subtitle = "artistic earbud case"
+      image = "earganizer.png"
+      url = "blogs/earganizer"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+      title = "bartop arcade"
+      subtitle = "where it all started"
+      image = "arcade.jpg"
+      url = "blogs/arcade"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -138,12 +138,12 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Hello"
+    title = "Hi"
     subtitle = """I am Colin, a enthoustic jack of all trades that was born in the netherlands.
-    Intrested in home automation, audio, drones. 
-    Currently studying Sensor Technology at the Hanze Institute of Engineering"""
+    Intrested in home automation, audio, drones and design. 
+    Currently studying Sensor Technology at the Hanze Institute of Engineering and trying to developing my design skills"""
     buttonText = "Contact me"
-    url = "blogs"
+    url = "#contact"
 
 
   # Contact section

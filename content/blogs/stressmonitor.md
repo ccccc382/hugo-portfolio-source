@@ -1,7 +1,7 @@
 ---
-title: "Odssey bookshelf speakers"
+title: "Stress monitor"
 description: ""
-slug: "Odssey bookshelf speakers"
+slug: "Stress monitor"
 image: 
 keywords: ""
 categories: 
