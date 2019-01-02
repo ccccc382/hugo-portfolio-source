@@ -40,8 +40,8 @@ disqusShortname = ""
     title = "Colin"
     subtitle = "Gerritsen"
     menu = "Menu"
-    # Optional logo as brand stored in img/
-    # logo = "logo.png"
+     Optional logo as brand stored in img/
+     logo = "logo.png"
 
     [[params.navigation.links]]
       name = "Home"
@@ -92,10 +92,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "test1"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Smart greenhouse"
+      subtitle = "a modular solution"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/greenhouse"
 
     [[params.tiles.showcase]]
       title = "Test2"
